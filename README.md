@@ -35,4 +35,4 @@
 </p>
 ## 🎧 Currently Playing
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=bpucd4iiiyd07chabcnhfpsb4&cover_image=true&theme=default)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=bpucd4iiiyd07chabcnhfpsb4&cover_image=true&theme=default)](https://open.spotify.com/user/bpucd4iiiyd07chabcnhfpsb4)
