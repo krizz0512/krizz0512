@@ -37,7 +37,7 @@
 
 <p align="center">
 <a href="https://open.spotify.com/album/40HApg2uDPSMCFnyxWYYS6">
-<img src="https://i.scdn.co/image/ab67616d0000b273a3c7c5f0c4a9bfb87c0c6b2a" width="320">
+<img src="https://open.spotify.com/embed/album/40HApg2uDPSMCFnyxWYYS6/image/large">
 </a>
 </p>
 
