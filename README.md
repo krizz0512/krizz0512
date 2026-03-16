@@ -33,6 +33,14 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 </p>
-## 🎧 Currently Playing
+<h2 align="center">🎧 Currently Vibing To</h2>
 
-[![Spotify](https://img.shields.io/badge/Spotify-Listen%20with%20me-1DB954?style=for-the-badge&logo=spotify)](https://open.spotify.com/user/bpucd4iiiyd07chabcnhfpsb4)
+<p align="center">
+<a href="https://open.spotify.com/album/40HApg2uDPSMCFnyxWYYS6">
+<img src="https://i.scdn.co/image/ab67616d0000b273a3c7c5f0c4a9bfb87c0c6b2a" width="320">
+</a>
+</p>
+
+<p align="center">
+✨ <b>Sukoon — Arijit Singh</b> ✨
+</p>
