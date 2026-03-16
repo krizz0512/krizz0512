@@ -35,8 +35,4 @@
 </p>
 ## 🎧 Currently Playing
 
-<iframe style="border-radius:12px" 
-src="https://open.spotify.com/embed/playlist/37i9dQZF1DXcBWIGoYBM5M" 
-width="100%" height="152" frameBorder="0" allowfullscreen="" 
-allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
-</iframe>
+[![Spotify](https://spotify-now-playing-git-main.vercel.app/api/spotify)](https://open.spotify.com/)
