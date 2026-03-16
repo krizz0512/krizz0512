@@ -37,11 +37,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Music%20I'm%20Vibing%20To&fontSize=30&fontAlignY=40">
 </p>
 
-<h2 align="center">🎧 Music I'm Vibing To</h2>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Music%20I'm%20Vibing%20To&fontSize=30&fontAlignY=40">
+</p>
 
 <p align="center">
 <a href="https://open.spotify.com/album/40HApg2uDPSMCFnyxWYYS6">
-<img src="sukoon.jpg" width="220">
+<img src="sukoon.jpg" width="240">
 </a>
 </p>
 
