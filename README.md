@@ -34,7 +34,7 @@
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 </p>
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=header&text=Music%20I'm%20Vibing%20To&fontSize=22&fontAlignY=40">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Music%20I'm%20Vibing%20To&fontSize=26&fontAlignY=25">
 </p>
 
 <p align="center">
