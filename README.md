@@ -33,3 +33,6 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 </p>
+## 🎧 Currently Playing
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=bpucd4iiiyd07chabcnhfpsb4&cover_image=true&theme=default)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
