@@ -33,14 +33,19 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 </p>
-<h2 align="center">🎧 Currently Vibing To</h2>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Music%20I'm%20Vibing%20To&fontSize=30&fontAlignY=40">
+</p>
+
+<h2 align="center">🎧 Music I'm Vibing To</h2>
 
 <p align="center">
 <a href="https://open.spotify.com/album/40HApg2uDPSMCFnyxWYYS6">
-<img src="sukoon.jpg" width="320">
+<img src="sukoon.jpg" width="220">
 </a>
 </p>
 
 <p align="center">
-✨ <b>Sukoon — Arijit Singh</b> ✨
+<b>✨ Sukoon — Arijit Singh ✨</b><br>
+<i>Click the cover to listen on Spotify</i>
 </p>
