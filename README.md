@@ -35,4 +35,4 @@
 </p>
 ## 🎧 Currently Playing
 
-[![Spotify](https://spotify-now-playing-git-main.vercel.app/api/spotify)](https://open.spotify.com/)
+[![Spotify](https://img.shields.io/badge/Spotify-Listen%20with%20me-1DB954?style=for-the-badge&logo=spotify)](https://open.spotify.com/user/bpucd4iiiyd07chabcnhfpsb4)
